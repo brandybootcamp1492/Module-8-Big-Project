@@ -20,7 +20,7 @@ To set up the application on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/brandybootcamp1492/Module-8-Big-Project.git
 2. Clone or navigage to the project folder   
 3.	Install the required dependencies: npm install 
 4. In the terminal, type run build.
@@ -47,7 +47,7 @@ Features
 
 Walkthrough Video
 
-Click here to view a walkthrough video.
+Click here to view a walkthrough video.  https://drive.google.com/file/d/1FV3VYTcKqarT-vZaPC6y-VUWydCdkLkl/view?usp=sharing
 
 License
 
